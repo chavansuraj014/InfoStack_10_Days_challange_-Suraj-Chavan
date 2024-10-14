@@ -18,7 +18,7 @@ for i in range(1,NUMBER+1):
     Array.append(num)
 print("                          ") 
 print("__________________________")
-print(f"YOUR INPUT IS  - {Array}")
+print(f"YOUR INPUT IS  -  {Array}")
 
 value=len(Array)
 
@@ -26,5 +26,5 @@ for i in range(1,len(Array)+1):
   num_2=Array[value-i]
   Array_2.append(num_2)
 print("_________________________")
-print(f"YOUR OUTPUT IS - {Array_2}")
+print(f"REVERSE ARRAY OUTPUT IS - {Array_2}")
  

@@ -6,6 +6,7 @@ try:
     VALUES=str(input(f"ENTER YOUR INPUT NO {i} -  "))
   
     X=list((VALUES))
+    X=[item for item in X if item and item.strip()]
     length_X=(len(X)//2)
     X1=(X[0:length_X])
     X2=(X[length_X+1:])

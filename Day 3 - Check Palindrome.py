@@ -16,7 +16,7 @@ try:
    
     if X1==C:
         print("______________________________________________________________")
-        print(F"YOUR INPUT IS {X}")
+        print(F"YOUR INPUT IS {VALUES}")
         print(F"FRONT SIDE IS {X1} ") 
         print(F"BACK SIDE IS  {C} ")
         print("______________________________________________________________")
@@ -24,7 +24,7 @@ try:
         print("                                                                ")
     else:
         print("______________________________________________________________")
-        print(F"YOUR INPUT IS {X}")
+        print(F"YOUR INPUT IS {VALUES}")
         print(F"FRONT SIDE IS {X1} ") 
         print(F"BACK SIDE IS  {C} ")
         print("______________________________________________________________")

@@ -14,7 +14,7 @@ for i in list2 :
     if i in set1:
         set1.remove(i)
           
-if x==len(list1)//2:
+if x==len(list1)/2:
     print("_______________________________________")
     print("-1 (All characters repeat)")
     print("                                       ")

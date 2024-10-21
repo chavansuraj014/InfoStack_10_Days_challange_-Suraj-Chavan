@@ -8,7 +8,7 @@ if NUMBER>1 and NUMBER<=500:
         print("          ")
         print("******************************************")
         VALUE=int(input(f"ENTER VALUE NO {i} - "))
-        Array.append(i)
+        Array.append(VALUE)
     
     
     for i in range(0,NUMBER):

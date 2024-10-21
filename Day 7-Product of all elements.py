@@ -31,7 +31,8 @@ if NUMBER>1 and NUMBER<=500:
     print("                                                                                          ")
             
         
-        
+else:
+    print("??? PLEASE ENTER GRATER THAN 1 AND LOWER THAN 500")
        
     
     
